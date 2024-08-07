@@ -14,21 +14,21 @@ Developed a machine learning model to predict product sales and optimize invento
    git clone https://github.com/yourusername/sales-forecasting.git
 2. Navigate to the project directory:
     ```bash
-    cd sales-forecasting
-3.Install dependencies
+   cd sales-forecasting
+3. Install dependencies
     ```bash
-      pip install -r requirements.txt
+    pip install -r requirements.txt
     
 ## Usage
 1. Run the data preprocessing script
    ```bash
-    python preprocess.py
+   python preprocess.py
 2. Train the models
    ```bash
-    python train.py
+   python train.py
 3. Run the Streamlit dashboard:
    ```bash
-    streamlit run app.py
+   streamlit run app.py
 
 ## Prerequisites
 Python 3.x
